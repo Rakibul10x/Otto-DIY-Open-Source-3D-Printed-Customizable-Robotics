@@ -122,6 +122,29 @@ void loop() {
 
 <hr>
 
+<h2>📽️ Project Demos</h2>
+
+<p>Here are some project snapshots:</p>
+
+<table align="center" border="0" cellpadding="10">
+    <tr>
+        <td align="center">
+            <img src="https://github.com/Rakibul10x/Otto-DIY-Open-Source-3D-Printed-Customizable-Robotics/blob/main/3D-Printed%20Structural%20Design.png" alt="3D-Printed Structural Design" width="300">
+            <p>📸 3D-Printed Structural Design</p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Rakibul10x/Otto-DIY-Open-Source-3D-Printed-Customizable-Robotics/blob/main/Electronic%20Circuit%20Schematic.png" alt="Electronic Circuit Schematic" width="300">
+            <p>📸 Electronic Circuit Schematic</p>
+        </td>
+        <td align="center">
+            <img src="https://github.com/Rakibul10x/Otto-DIY-Open-Source-3D-Printed-Customizable-Robotics/blob/main/Assembled%20and%20Functional%20Prototype.png" alt="Assembled and Functional Prototype" width="300">
+            <p>📸 Assembled and Functional Prototype</p>
+        </td>
+    </tr>
+</table>
+
+<hr>
+
 <h2>📌 Contribution & Support</h2>
 
 <p>If you love this project, give it a ⭐ and contribute to its future enhancements!</p>
