@@ -151,7 +151,7 @@ void loop() {
 
 <p>📩 Fork, improve, and submit a pull request to add new features.</p>
 
-<p>For any queries or suggestions, reach out to <b><a href="mailto:YourEmail@example.com">YourEmail@example.com</a></b>.</p>
+<p>For any queries or suggestions, reach out to <b><a href="mailto:YourEmail@example.com">rakibul10x@gmail.com</a></b>.</p>
 
 <hr>
 
